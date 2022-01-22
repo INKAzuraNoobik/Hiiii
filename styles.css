@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+header {
+    background-color: azure;
+    padding: 10px;
+    color: midnightblue;
+}
+
+nav  a {
+    background-color: midnightblue;
+    border-color: 1px solid midnightblue;
+    color: azure;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header a {
+    color: midnightblue;
+}
+
+nav {
+    background-color: azure;
+}
+
+h1 {
+    border: 1px solid midnightblue;
+    text-align: center;
+    color: midnightblue;
+    background-color: azure;
+}
+
+footer p {
+    border: 1px solid midnightblue;
+}
+
+footer {
+    background-color: azure;
+}
+
+.main {
+    border: 1px solid midnightblue;
+    background-color: azure;
+}
+
+body a {
+    border: 1px solid midnightblue;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
